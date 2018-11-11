@@ -121,8 +121,10 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+#TestDjangoFor1
+#ответ SC:BW
 EMAIL_HOST = 'smtp.yandex.ru'
 EMAIL_PORT = 465
-EMAIL_HOST_USER = 'kyzaiv1@yandex.ru'
-EMAIL_HOST_PASSWORD = 'AC23sdc3!a24sc@'
+EMAIL_HOST_USER = 'zloyevock@yandex.ru'
+EMAIL_HOST_PASSWORD = 'TestDjangoFor1'
 EMAIL_USE_SSL = True
